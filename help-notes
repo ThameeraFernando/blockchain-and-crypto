@@ -1,1 +1,6 @@
 Block ->timestamp ,lastHash,data,hash 
+BlockHash ->timestamp,given data and lasthash
+//use SHA-256 algoritham
+//bits -256
+//hexa -64(34AC45F...)
+//one way function
